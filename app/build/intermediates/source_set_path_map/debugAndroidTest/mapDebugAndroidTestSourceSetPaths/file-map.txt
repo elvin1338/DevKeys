@@ -1,0 +1,4 @@
+com.example.devkeys.test.app-androidTest-0 C:\DevKeys-Android-Project-1.1\DevKeys\app\build\generated\res\resValues\androidTest\debug
+com.example.devkeys.test.app-mergeDebugAndroidTestResources-1 C:\DevKeys-Android-Project-1.1\DevKeys\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.devkeys.test.app-mergeDebugAndroidTestResources-2 C:\DevKeys-Android-Project-1.1\DevKeys\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.devkeys.test.app-debugAndroidTest-3 C:\DevKeys-Android-Project-1.1\DevKeys\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
